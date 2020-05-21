@@ -1,0 +1,6 @@
+[submodule "themes/webmonetization"]
+	path = themes/webmonetization
+	url = git@github.com:sabinebertram/hugo-webmonetization-component.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

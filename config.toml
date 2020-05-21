@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = ["ananke", "webmonetization"]
+
+[params]
+  monetization = "$ilp.uphold.com/XMzpq69r8eZD"
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
